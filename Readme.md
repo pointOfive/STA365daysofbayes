@@ -7,7 +7,7 @@ Wednesday 3-6 PM MB 128
 
 HW: 30=(10*3)  
 MT: 35  
-CP: 35  
+FE: 35  
 
 ## Topics
 
@@ -18,13 +18,14 @@ Jan 29: Metropolis-Hastings, priors; Metropolis-within-Gibbs (3) and Transition 
 Feb 05: PyMC, model diagnostics; PyMC Sampling Assignment 1 (3)  
 Feb 12: Hamiltonian Monte Carlo  
 Feb 19: READING WEEK  
-Feb 26: MIDTERM (20)  
+Feb 26: MIDTERM (35)  
 Mar 05: Bayesian Linear Regression, GLMs; PyMC Modeling Assignment 2 (3)  
 Mar 12: Multivariate Normal Distributions, Linear Algebra; Multivariate Regression (3)  
 Mar 19: Inverse-Wishart, LKJ (Cholesky) priors; PyMC Computation Assignment 3 (3)  
 Mar 26: Mixture Models; PyMC Assignment 4 (3)  
 Apr 02: TBD  
 
+<!--
 ## Projects
 
 1. Model Selection (Bayes Factors, WAIC, LOO-CV, etc.)  
@@ -47,4 +48,4 @@ Apr 02: TBD
 18. WinBugs: Adaptive Squeezed Rejection and Slice Sampling  
 19. Stochastic Gradient-based MCMC [Langevin Monte Carlo (LMC/SGLD) and SG-MCMC]  
 20. Something else you propose
-
+-->
