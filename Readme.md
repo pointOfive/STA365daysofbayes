@@ -11,12 +11,13 @@ FE: 35
 
 ## Topics
 
+
 Jan 08: Bayes Theorem, Beta-Binomial; Dirichlet-Multinomial (3)  
-Jan 15: Monte Carlo integration, `for` loops; Bayesian Bandit (3)  
-Jan 22: Normal-Normal, Gamma-Normal-Normal; Gibbs Sampling (3)  
-Jan 29: Metropolis-Hastings, priors; Metropolis-within-Gibbs (3) and Transition Matrices (3)  
-Feb 05: PyMC, model diagnostics; PyMC Sampling Assignment 1 (3)  
-Feb 12: Hamiltonian Monte Carlo  
+Jan 15: Parameter Belief, Monte Carlo integration; Bayesian Bandit (3)  
+Jan 22: Normal-Normal, Gamma-Normal-Normal; Gibbs Sampling and proportionality (3)  
+Jan 29: Metropolis-Hastings, autocorrelation; Metropolis within Gibbs and Transition Matrices (3)  
+Feb 05: Introduction to PyMC; PyMC and slice sampling (3)  
+Feb 12: Hamiltonian Monte Carlo; more interesting PyMC (3)  
 Feb 19: READING WEEK  
 Feb 26: MIDTERM (35)  
 Mar 05: Bayesian Linear Regression, GLMs; PyMC Modeling Assignment 2 (3)  
