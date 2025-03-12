@@ -20,10 +20,10 @@ Feb 05: Introduction to PyMC; PyMC and slice sampling (3)
 Feb 12: Hamiltonian Monte Carlo; more interesting PyMC (3)  
 Feb 19: READING WEEK  
 Feb 26: MIDTERM (35)  
-Mar 05: Bayesian Linear Regression, GLMs; PyMC Modeling Assignment 2 (3)  
-Mar 12: Multivariate Normal Distributions, Linear Algebra; Multivariate Regression (3)  
-Mar 19: Inverse-Wishart, LKJ (Cholesky) priors; PyMC Computation Assignment 3 (3)  
-Mar 26: Mixture Models; PyMC Assignment 4 (3)  
+Mar 05: Bayesian Linear Regression, GLMs, shrinkage regularization; PyMC Modeling Assignment 2 (3)  
+Mar 12: Multivariate Regression, Inverse-Wishart, LKJ (Cholesky) priors; PyMC Modeling Assignment 3 (3)  
+Mar 19: Variable Selection Priors and Gaussian Processes; More PyMC Assignment (3)  
+Mar 26: Mixture Models and Dirichlet Process Mixture Models?  PyMC Assignment 4 (3)  
 Apr 02: TBD  
 
 <!--
